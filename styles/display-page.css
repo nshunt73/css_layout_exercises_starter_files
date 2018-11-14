@@ -1,0 +1,48 @@
+main {  	
+	font-size:	0;
+}
+
+.main-container {	
+	width: 800px;
+	margin-left:	auto;
+	margin-right:	auto;
+	margin-top:	90px;
+}
+
+.block {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.centered {
+	text-align: center;
+}
+
+.block-1 {
+	height:	200px;	
+	width:	50%;
+}
+
+.first-block-1 {
+	background-color:	green;
+}
+
+.first-block-2 {
+	background-color: blue;
+}
+.block-2 {
+	height:	300px;	
+	width:	33.33%;
+}
+
+.second-block-1 {
+	background-color:	grey;
+}
+
+.second-block-2 {
+	background-color: black;
+}
+
+.second-block-3 {
+	background-color:	yellow;
+}
